@@ -1,0 +1,23 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "node_nettiluento",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ViliVilperi@bitbucket.org/ViliVilperi/exercises.git"
+  },
+  "author": "Vili",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ViliVilperi/exercises#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
